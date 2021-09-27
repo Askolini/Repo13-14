@@ -41,7 +41,7 @@ function setSrc(response) {
     }
     if (response == "image9") {
         return "image09.html";
-    } {
+    } else {
         return "image10.html";
     }
 }
